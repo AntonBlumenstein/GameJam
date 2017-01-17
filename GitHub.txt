@@ -1,0 +1,18 @@
+ls - ordner an dem man sich befindet 
+cd Desktop/Games/Bloppy/Assets/Assets 
+git clone "https://github.com/AntonBlumenstein/GameJam"
+
+
+git add .
+git commit -m "message"
+git push
+git pull   
+
+
+git clone "https://github.com/AntonBlumenstein/GameJam"
+
+ls - ordner an dem man sich befindet 
+cd Desaktop/Games/Assets/Assets 
+
+
+cd Ordner - geht in den ordner 
